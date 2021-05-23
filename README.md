@@ -11,3 +11,5 @@ Not: Amaç modellerin sonuçlarını görmekti. Bu yüzden görselleştirme yok.
 Eng - Result: Rnn model was trained in +15 minutes. As I said, I tried to shorten this period and increase the accurucy. Logistic regression and SVM gave the best accurucy at high speed (3-7 seconds). The worst was GBM. It trained for 10 minutes, gave the worst result. I cried in anger!
 Note: Gbm is not a bad algorithm. It is not suitable for these dataset.
 Note: The aim was to see the results of the models. That's why there is no visualization. Visualizations will be added later.
+
+![1__MBY_b7gRa-7m121eX5_FA](https://user-images.githubusercontent.com/44001855/119272668-c1fc4980-bc0f-11eb-92bd-27c34d805d3b.png)
