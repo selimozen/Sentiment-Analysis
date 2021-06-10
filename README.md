@@ -1,4 +1,4 @@
-# Sentiment-Analysis Mark 1
+# Sentiment-Analysis Mark I
 Tr - Herkese Merhaba! Duygu analizi için derlenmiş veri setim için Rnn ve diğer makine öğrenmesi algoritmalarını karılaştırdım. Amaç yüksek hızda en iyi sonucu elde etmekti.
 
 Eng - Hello Everyone! I research machine learning algorithms for my data that data about sentiment analysis. The aim was to achieve the best accuracy at high speed.
